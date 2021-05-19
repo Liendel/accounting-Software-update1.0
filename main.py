@@ -1,5 +1,7 @@
 #first window == main.py
-#second window == Grade Level
+#second window == grade_level.py
+#Third Window == kinder1Table.py
+#Fourth Window == kinder2Table.py
 
 # Main Application
 import sys
